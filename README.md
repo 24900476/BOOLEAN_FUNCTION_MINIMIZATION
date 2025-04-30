@@ -49,7 +49,7 @@ EXP2B:
 
 
 
-Developed by: Kabira A .S RegisterNumber:* 212224040146/
+Developed by: Kabira A RegisterNumber:* 212224040146/
 
 
 **RTL realization**
